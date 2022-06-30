@@ -2,21 +2,21 @@
 
 ![Demon Rob](<../.gitbook/assets/Demon Robe.png>)
 
-### <mark style="color:yellow;">ข้อมูลชุดเกราะ</mark>
+### <mark style="color:yellow;">Armor information</mark>
 
-ชุดเกราะราชาปีศาจ อัดแน่นไปด้วยความลึกลับและพลังแห่งความตาย ผู้ที่ครอบครองหรือสวมชุดเกราะ Demon Robe จะมีความสามารถในการหาผลประโยชน์กับความตาย ทำให้สามารถเกิดใหม่ (Recovery Full HP) เมื่อมีผู้เล่นหรือ Goblin ตายในสนามรบ และจะอันตรายขั้นสุด! หากถือคฑาแห่งความตาย (Bone Wand) อยู่ในมือ!!
+Demon King Armor Packed with mystery and the power of death, These who possessed or were the Demon Robe armor had the ability to exploit death, It can be respawned (Recovery Full HP) when a player or goblin dies on the battlefield, and it's extremely dangerous) If you hold the wand ef death (Bone Wand) in your hand!!
 
 ![Demon Robe Skill](<../.gitbook/assets/B (5).png>) ![Bone Wand](<../.gitbook/assets/สำเนาของ bone-wand.png>)
 
 ### <mark style="color:yellow;">Passive Skill</mark>
 
-* เมื่อมีผู้เล่นตาย -> HP ของ Demon จะ <mark style="background-color:red;">+2HP</mark> (หรือ <mark style="background-color:red;">+4HP</mark> หากถือ <mark style="color:purple;">Bone Wand</mark> 1 อัน และ <mark style="background-color:red;">+6HP</mark> หากถือ <mark style="color:purple;">Bone Wand</mark> ครบทั้ง 2 อัน)
+* When a player dies -> Demon's HP will <mark style="background-color:red;">+2HP</mark> (or <mark style="background-color:red;">+4HP</mark> if holding a <mark style="color:purple;">Bone Wand</mark> and <mark style="background-color:red;">+6HP</mark>  if holding <mark style="color:purple;">Bone Wand</mark> complete both)
 
 ### <mark style="color:yellow;">Action Skill</mark>
 
-* เมื่อ Demon ฆ่า [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) ตาย จะสามารถส่ง [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) ไปก่อกวน โจมตี สร้างความเสียหายให้กับผู้เล่นหรือศัตรูได้
+* When Demon kills [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) dead will be able to send [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) Can harass, attack and damage players or enemies.
 
 ### <mark style="color:yellow;">Special Skill</mark>
 
-* หากหยิบได้ <mark style="color:purple;">Bone Wand</mark> จะสามารถปลุก [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) ทั้งหมดที่อยู่ใน <mark style="color:orange;">กองทิ้งการ์ด</mark> ณ ขณะนั้น และสั่งให้ <mark style="color:red;">โจมตี</mark> คนอื่นในเวลาที่ต้องการได้ และหลอด HP จะ <mark style="color:yellow;">+1slot(ถาวร)</mark> ตามจำนวน <mark style="color:purple;">Bone Wand</mark> ที่มี (<mark style="color:yellow;">Max HP สูงสุด 6 slot</mark>)
-* หากตาย ไม้เท้า <mark style="color:purple;">Bone Wand</mark> ทั้งหมดจะกลับสู่ <mark style="color:orange;">กองทิ้งการ์ด</mark> โดยหลอด <mark style="color:yellow;">HP</mark> จะยังอยู่ต่อไปจนกว่าเกมจะจบ
+* if you can pick it up <mark style="color:purple;">Bone Wand</mark> will be able to wake [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) all in  <mark style="color:orange;">discard pile</mark> at that time and ordered <mark style="color:red;">Attack</mark> other people at the time of need, and the HP lamp will <mark style="color:yellow;">+1slot(permanent)</mark> by number <mark style="color:purple;">Bone Wand</mark> with (<mark style="color:yellow;">Max HP up to 6 slot</mark>)
+* if dead, cane <mark style="color:purple;">Bone Wand</mark> all will return to <mark style="color:orange;">discard pile</mark> by tube <mark style="color:yellow;">HP</mark> will remain until the game is over.

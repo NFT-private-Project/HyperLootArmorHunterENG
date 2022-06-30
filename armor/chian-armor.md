@@ -1,29 +1,29 @@
-# ⛓ Chian Armor : ฝุ่นเหล็ก IRONDUST
+# ⛓ Chian Armor : IRONDUST
 
-![Chian Armor](../.gitbook/assets/030-01.png)
+![Chain Armor](../.gitbook/assets/030-01.png)
 
-### <mark style="color:yellow;">ข้อมูลชุดเกราะ</mark> ฝุ่นเหล็ก IRONDUST
+### <mark style="color:yellow;">armor information</mark> IRON DUST
 
-ชุดเกราะแห่งความพยายาม แม้ภายนอกจะเป็นเพียงพลทหารยศต่ำต้อย แต่ IRONDUST คือตัวแทนของ 'คนตัวเล็กตัวน้อย' ในสังคม/สงคราม แต่ความจริงเขาอาจเป็นผู้เสียสละที่ยิ่งใหญ่ ยอมแลกทุกสิ่งทุกอย่าง (แม้กระทั่งชีวิตตัวเอง) เพื่อชัยชนะ การโจมตีจึงหนักหน่วง ต่อเนื่อง รุนแรง รวมถึงการป้องกันที่แข็งแกร่ง ดุดัน พร้อมความสามารถพิเศษที่แปลกประหลาดไม่เหมือนใคร!
+Armor of Effort Outwardly just a lowly rank soldier, IRONDUST represents the "little people' in society/war. But in fact, he could be a great sacrifice. Willing to trade everything (Even your own life) to win, tie attacks are heavy, continuous, intense, including strong, fierce defense, with unique special abilities!
 
 ![Chian Armor Skill](<../.gitbook/assets/B (1).png>) ![Katana](<../.gitbook/assets/สำเนาของ katana.png>)
 
 ### <mark style="color:yellow;">Passive Skill</mark>
 
-* ทุกครั้งที่ตาย IRONDUST จะสามารถ <mark style="color:yellow;">Trade</mark> การ์ดบนมือตัวเองกับการ์ดที่อยู่ใน <mark style="color:orange;">กองทิ้งการ์ด</mark> ได้ 1 ใบ (Armor Card Dispile)
+* Whenever I die, IRONDUST will be able to <mark style="color:yellow;">Trade</mark> Cards in your hand and cards in your hand. <mark style="color:orange;">discard pile</mark> Get 1 card (Armor Card Discard pile)
 
 ### <mark style="color:yellow;">Action Skill</mark>
 
-* เมื่อทำการโจมตีผู้เล่นอื่น จะทำให้ผู้เล่นนั้น <mark style="background-color:red;">-1HP</mark> และ <mark style="color:yellow;">ติดสตั้น(Stun)</mark> หยุดเดิน 1 ตา
-* สามารถจ่ายเลือดตัวเอง <mark style="background-color:red;">-1HP</mark> เพื่อเพิ่ม <mark style="color:red;">ATK</mark> จาก <mark style="color:red;">1ATK</mark> เป็น <mark style="color:red;">2ATK</mark>
+* when attacking other player will make that player <mark style="background-color:red;">-1HP</mark> and <mark style="color:yellow;">Stun</mark> Stop walking for 1 turn
+* can pay for hos own blood <mark style="background-color:red;">-1HP</mark> to add <mark style="color:red;">ATK</mark> from <mark style="color:red;">1ATK</mark> to <mark style="color:red;">2ATK</mark>
 
 ### <mark style="color:yellow;">Special Skill</mark>
 
-หาก IRONDUST หยิบได้ [<mark style="color:purple;">'ดาบ</mark> <mark style="color:purple;"></mark><mark style="color:purple;"><mark style="color:purple;">Katana'<mark style="color:purple;"></mark>](../event-card.md#weapon) จะเลือกใช้ 1 ใน 2 ท่านี้ (เมื่อเข้า Action เฟส) ได้หนึ่งครั้ง คือ
+If IRONDUST can pick it up [<mark style="color:purple;">'Katana'</mark>](../event-card.md#weapon) Will choose to use 1 of these 2 positions (when entering the Action phase) con only be once:
 
-1. <mark style="color:yellow;">Suicide Bomb</mark> : ระเบิดตัวตาย <mark style="background-color:red;">-2HP</mark> ทุกคน\*\*
-2. <mark style="color:yellow;">Kamikaze</mark> : เลือก 1 เป้าหมาย และตายไปพร้อมกัน\*\*
+1. <mark style="color:yellow;">Suicide Bomb</mark> : Self-Exploding <mark style="background-color:red;">-2HP</mark> everyone\*\*
+2. <mark style="color:yellow;">Kamikaze</mark> : Choose 1 target and die at the same time\*\*
 
-<mark style="background-color:orange;">**\*\* เมื่อ IRONDUST ตาย จะทำให้ดาบ Katana หลุดมือ และตกลงสู่กองทิ้งการ์ด ทำให้ความสามารถพิเศษหมดไปกลับสู่ปกติ**</mark>
+<mark style="background-color:orange;">**\*\* When IRONDUST died, the katana slips from your hand and falls to the discard pile. causign all special abilities to return to normal**</mark>
 
-<mark style="background-color:yellow;">\*\*(ทั้งสองท่าจะทำให้ IRONDUST : Chain Armor ใช้ Passive Skill ของตัวเองได้ง่ายและไวขึ้น)\*\*</mark>
+<mark style="background-color:yellow;">\*\*(Both moves will make IRONDUST : Chain Armor use its own passive skills easier and faster)\*\*</mark>

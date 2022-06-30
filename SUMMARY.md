@@ -2,10 +2,10 @@
 
 * [🎮 Armor Hunter The Adventure Board Game](README.md)
 * [🧙♂ Armor](armor/README.md)
-  * [⛓ Chian Armor : ฝุ่นเหล็ก IRONDUST](armor/chian-armor.md)
+  * [⛓ Chian Armor : IRONDUST](armor/chian-armor.md)
   * [👿 Demon Robe](armor/demon-robe.md)
-  * [👰♂ Divine Robe : นักพรตขาวผู้ลึกลับ](armor/divine-rob.md)
-  * [🐉 Dragon Armor : เกราะเผ่ามังกรแดง](armor/dragon-armor.md)
+  * [👰♂ Divine Robe : Mysterious Whiter Ascetic](armor/divine-rob.md)
+  * [🐉 Dragon Armor : Red Dragon Armor](armor/dragon-armor.md)
   * [🐻 Leather Armor](armor/leather-armor.md)
   * [🧛♂ Linen Robe](armor/linen-robe.md)
   * [🔱 Ornate Armor](armor/ornate-armor.md)

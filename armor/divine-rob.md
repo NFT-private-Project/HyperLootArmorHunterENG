@@ -1,29 +1,29 @@
-# 👰♂ Divine Robe : นักพรตขาวผู้ลึกลับ
+# 👰♂ Divine Robe : Mysterious Whiter Ascetic
 
 ![Divine](<../.gitbook/assets/Divine Robe.png>)
 
-### <mark style="color:yellow;">ข้อมูลชุดเกราะ</mark>
+### <mark style="color:yellow;">armor information</mark>
 
-&#x20;       ในเกมรบที่ดุเดือดและอันตราย ชุด Divine Robe หรือชุดเกราะ 'นักพรตขาว' คือชุดเกราะสาย heal & support แม้การโจมตีจะไม่โดดเด่นรุนแรง แต่ก็อาจเป็นตัวละครสำคัญที่ส่งผลดีต่อเกมการต่อสู้ศึกต่าง ๆ  ได้
+In an intense and dangerous battle, the Divine Robe or "White Ascetic' armor is heal & support armor. But it can also be an important character that has a positive effect on any battle royale game.
 
-โดยเฉพาะในเกมหรือจังหวะที่ต้องเจอกับศัตรูที่มีพลังทำลายล้างสูง การใช้ หรือมีชุดเกราะ Divine Robe (ที่สามารถฟื้นพลังได้อย่างรวดเร็วและต่อเนื่อง) ในทีม อาจเป็นตัวพลิกเกมให้กลับมาเป็นฝ่ายได้เปรียบ ในช่วงชิงดำท้ายเกมที่สำคัญทุกจังหวะตัดสินใจ! โดยเฉพาะเมื่อนักพรตขาวเปิดได้การ์ด <mark style="color:purple;">Tome (คัมภีร์เวทย์สีขาว)</mark> เหล่าศัตรูต้องระวัง!!
+Especially in games or when facing devastating enemies, using or having a Divine Robe armor (which can recover quickly and continuously) on your team can be a game-changer. advantage At the end of the game, every important moment is decided! Especially when the white priest opened the card. <mark style="color:purple;">Tome (White Magic Scroll)</mark> Enemies need to be careful!!
 
 ![Divine Robe Skill](../.gitbook/assets/B.png) ![TOME](<../.gitbook/assets/สำเนาของ tome.png>)
 
 ### <mark style="color:yellow;">Passive Skill</mark>
 
-* เมื่อมีใคร <mark style="color:yellow;">Heal</mark> หรือ <mark style="color:yellow;">Recovery HP</mark> -> จะส่งผลให้ HP ของ Divine Robe <mark style="background-color:red;">+1HP</mark> ไปด้วยทันที
+* when someone <mark style="color:yellow;">Heal</mark> or <mark style="color:yellow;">Recovery HP</mark> -> Will affect Divine Robe's HP. <mark style="background-color:red;">+1HP</mark> go with immediately
 
 ### <mark style="color:yellow;">Action Skill</mark>
 
-* เมื่อ Divine Robe เปิดเจอ [<mark style="color:purple;">หนังสือ หรือคัมภีร์</mark>](../event-card.md#undefined) <mark style="color:purple;"></mark> จะสามารถเลือก <mark style="color:red;">โจมตีเป้าหมาย</mark> ได้ 1 ATK
+* When Divine Robe is opened <mark style="color:purple;">book or bible</mark> will be able to choose <mark style="color:red;">attack the target</mark> get 1 ATK
 
 ### <mark style="color:yellow;">Special Skill</mark>
 
-หากหยิบได้ <mark style="color:purple;">TOME</mark> จะสามารถเก็บการ์ดไว้ข้างกาย และเลือกใช้ 1 ใน 3 ท่านี้เมื่อไหร่ก็ได้ 1 ครั้งต่อ 1 ใบที่เจอ คือ
+if you can pick it up <mark style="color:purple;">TOME</mark> You can keep a card by your side and use 1 of these 3 moves at any time, 1 time per card encountered.&#x20;
 
-* <mark style="color:yellow;">Power UP</mark> : พลังกลับมาเต็ม
-* <mark style="color:yellow;">Lighting Storm</mark> : ผู้เล่นทุกคนหยุดเดิน 2 ตา
-* <mark style="color:yellow;">White Death</mark> : เลือกโจมตีหนึ่งเป้าหมาย <mark style="background-color:red;">HP เหลือ 0</mark> (กรณี Co-op หรือ Solo Mode จะเปลี่ยนเป็นความสามารถในการ Heal เพื่อน)
+* <mark style="color:yellow;">Power UP</mark> : Full Power
+* <mark style="color:yellow;">Lighting Storm</mark> : All player stop walking for turns.
+* <mark style="color:yellow;">White Death</mark> : Choose to attack one target <mark style="background-color:red;">HP left 0</mark> (In case of Co-op of Solo Mode, the ability to heal friends)
 
-<mark style="background-color:yellow;">\*\*หลังจากใช้ความสามารถแล้วการ์ด TOME จะกลับสู่กองทิ้งการ์ดทันที</mark>
+<mark style="background-color:yellow;">\*\*After using the ability, the TOME card will immediately return to the discard pile</mark>

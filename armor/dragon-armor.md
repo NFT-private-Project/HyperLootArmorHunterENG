@@ -1,29 +1,29 @@
-# 🐉 Dragon Armor : เกราะเผ่ามังกรแดง
+# 🐉 Dragon Armor : Red Dragon Armor
 
 ![Dragon Armor](../.gitbook/assets/Dragon.png)
 
-### <mark style="color:yellow;">ข้อมูลชุดเกราะ</mark>
+### <mark style="color:yellow;">Armor Information</mark>
 
-&#x20;        เมื่อความขัดแย้งของสองเผ่าพันธุ์ได้ลุกลามบานปลาย และการสูญเสียไม่ได้เกิดเฉพาะแต่กับเผ่าพันธุ์ของมนุษย์เท่านั้น แต่ยังเกิดกับลูกหลานของเผ่ามังกรที่ได้รับผลกระทบในครั้งนี้ที่โดนพวกมนุษย์เกลียดชัง พวกเขาจึงลุกขึ้นสู้เพื่อปกป้อง และทวงสิทธิ์บางอย่างของตัวเองคืน (เช่นสิทธิ์ในการควบคุมมังกร) ที่เคยถูกกลุ่มมนุษย์ที่ชั่วร้าย พรากมันไป และนำไปใช้ในทางผิด จึงก่อผลเสียหายกับเผ่าพันธุ์ของตัวเอง และทำให้เผ่าพันธุ์มังกรถูกเข้าใจผิดมาโดยตลอด จนอาจกลายเป็นสาเหตุของศึกสงครามนี้
+When the conflict between the two races escalates And the loss is not only for the human race. But also for the descendants of the dragon clan that were affected this time being hated by humans. So they stood up and fought to protect, and claiming back some of their rights (such as the right to control dragons) that were once taken away by evil humans and misused. therefore causing damage to their own species And causing the dragon race to be misunderstood all along. until it may become the cause of this war
 
-การหยิบยืมพลังแห่งบรรพบุรุษมังกรมาใช้จึงอาจเป็นทางแก้ หรือทางรอดเดียว ที่จะยุติสงครามที่ยืดเยื้อมานานนับร้อยปี! และการเลือกใช้ชุดเกราะมังกร (รวมถึงชุดเกราะอื่นๆ) ให้เหมาะกับจังหวะเวลา อาจเป็นกุญแจสำคัญของการชนะในทุกศึกสงครามหลังจากนี้
+Borrowing the power of the dragon ancestor and using it might be a solution. or the only way to survive to end a war that has been waged for hundreds of years! and the selection of dragon armor (Including other armor) to suit the timing It could be the key to winning in every battle after this.
 
 ![Dragon Armor Skill](<../.gitbook/assets/B (4).png>) ![Ghost Wand](<../.gitbook/assets/สำเนาของ ghost-wand.png>)
 
 ### <mark style="color:yellow;">Passive Skill</mark>
 
-* เมื่อเกิดการ <mark style="color:red;">การโจมตี</mark> หรือ <mark style="color:red;">สร้างดาเมจ(Damage)</mark> จากการ์ด [<mark style="color:orange;">มังกร(Dragon)</mark>](../event-card.md#dragon) _จะ`ไม่ส่งผล`_กับผู้ที่สวมชุดเกราะ <mark style="color:blue;">Dragon Armor</mark>
+* when <mark style="color:red;">attack</mark> or <mark style="color:red;">Damage</mark> from the card [<mark style="color:orange;">Dragon</mark>](../event-card.md#dragon) Will with those who wear armor <mark style="color:blue;">Dragon Armor</mark>
 
 ### <mark style="color:yellow;">Action Skill</mark>
 
-เมื่อเปิดเจอการ์ด Dragon จะได้รับพลังพิเศษ
+When a Dragon card is opened, it gains a special power.
 
-* <mark style="color:yellow;">Reset HP</mark> ได้ทันที
-* สามารถสั่งมังกร <mark style="color:red;">โจมตี</mark> ผู้เล่นคนอื่นได้ <mark style="background-color:red;">ATK+3</mark> (เมื่อรวมกับ <mark style="color:orange;">Effect</mark> ของการ์ดมังกร จะเป็น <mark style="background-color:red;">4ATK</mark>)
+* <mark style="color:yellow;">Reset HP</mark> immediately
+* can order a dragon <mark style="color:red;">attack</mark> other player can <mark style="background-color:red;">ATK+3</mark> (when combined <mark style="color:orange;">Effect</mark> of the dragon card will be <mark style="background-color:red;">4ATK</mark>)
 
 ### <mark style="color:yellow;">Special Skill</mark>
 
-* หากหยิบได้ <mark style="color:purple;">Ghost Wand</mark> จะสามารถหยิบการ์ด [<mark style="color:orange;">Dragon</mark> ](../event-card.md#dragon)ทั้งหมดที่อยู่ในกองทิ้งการ์ดมาวางเตรียมไว้ และเลือกสั่ง <mark style="color:red;">โจมตี</mark> คนอื่นในเวลาที่ต้องการได้
-* <mark style="background-color:red;">HP +1Slot</mark> ต่อ <mark style="color:purple;">Ghost Wand</mark> 1 อัน(ถาวร)
+* if you can pick it up <mark style="color:purple;">Ghost Wand</mark> will be able to pick up the card [<mark style="color:orange;">Dragon</mark> ](../event-card.md#dragon)All that is in the card discard pile are laid out prepared and ordered. <mark style="color:red;">attack</mark> other people at the desired time.
+* <mark style="background-color:red;">HP +1Slot</mark> continue <mark style="color:purple;">Ghost Wand</mark> 1 (permanent)
 
-<mark style="background-color:yellow;">\*\*หากตาย ไม้เท้า</mark> <mark style="color:purple;background-color:yellow;">Ghost Wand</mark> <mark style="background-color:yellow;">ทั้งหมดจะกลับสู่กองทิ้งการ์ด และความสามารถพิเศษในการควบคุมมังกรจะหายไปโดยหลอด HP จะยังคงอยู่ต่อไปจนกว่าจะจบเกม</mark>
+<mark style="background-color:yellow;">\*\*if die, cane</mark> <mark style="color:purple;background-color:yellow;">Ghost Wand</mark> <mark style="background-color:yellow;">all will return to the discard pile. And the special ability to control dragons disappears, With the HP remaining until the end of the game</mark>
