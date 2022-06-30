@@ -1,31 +1,31 @@
 ---
-description: สามัญชน // อัศวินโต๊ะกลม
+description: Commoners // Knights of the Round Table
 ---
 
 # 🐻 Leather Armor
 
 ![Leather Armor](<../.gitbook/assets/Leather Armor.png>)
 
-### <mark style="color:yellow;">ข้อมูลชุดเกราะ</mark>
+### <mark style="color:yellow;">Armor Information</mark>
 
-ผู้กล้าที่มาจากหมู่บ้านเล็ก ๆ ถูกบีบให้เข้าร่วมการต่อสู้ เพราะต้องการปกป้องหมู่บ้าน ชุมชน ครอบครัว คนที่ตัวเองรักเข้าร่วมศึกด้วยความจำเป็น แต่ก็ต่อสู้ด้วยการทุ่มสุดกำลัง มีความดิบเถื่อน และความพยายามสูง มีความสามารถในการเอาชีวิตรอดในป่าใหญ่ ออกเดินทางด้วยความมุ่งมั่น และตามหาพลังของดาบในตำนาน เป็นผู้กล้าที่เดินเข้าสู่สนามรบโดยปราศจากความกลัว
+The heroes from a small village were forced to join the battle. Because they want to protect their villages, communities, families, and their loved ones join the war with necessity. but fought with all his might raw and high effort Has the ability to survive in the big forest. travel with determination and find the power of the legendary sword He was a brave man who walked into the battlefield without fear.
 
 ![Leather Armor Skill](<../.gitbook/assets/B (6).png>) ![Long Sword](<../.gitbook/assets/สำเนาของ long-sword.png>)
 
 ### <mark style="color:yellow;">Passive Skill</mark>
 
-* เมื่อฆ่า [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) อัศวินจะนำ [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) ไปแลกยา หรืออาหาร ทำให้สามารถ <mark style="background-color:red;">+1HP</mark> ได้
+* when kill [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) the knight [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) to exchange for medicine or food, making it possible <mark style="background-color:red;">+1HP</mark>
 
 ### <mark style="color:yellow;">Action Skill</mark>
 
-เมื่อ <mark style="color:red;">โจมตี</mark> เสร็จแล้ว จะสามารถ <mark style="color:orange;">ยึดการ์ด</mark> บนมือของ <mark style="color:red;">ผู้เล่นเป้าหมาย</mark> ได้ 1 ใบ โดย <mark style="color:orange;">สลับ</mark> กับการ์ดที่เราไม่ต้องการ
+when <mark style="color:red;">attack</mark> finished, will be able to <mark style="color:orange;">seize the card</mark> on the hand of <mark style="color:red;">target player</mark> get 1 card by <mark style="color:orange;">alternate</mark> with cards we don't want
 
 ### <mark style="color:yellow;">Special Skill</mark>
 
-เมื่อเปิดได้การ์ด <mark style="color:purple;">Xcaliber(Long Sword)</mark> ความสามารถนี้จะ Active ทั้งหมด
+when opening the card <mark style="color:purple;">Xcaliber(Long Sword)</mark> This ability is all active.
 
-* <mark style="color:yellow;">Full Recovery +</mark> <mark style="color:green;">Goblin</mark> ที่เกาะอยู่ตายทันทีและกลายเป็น HP ที่สามารถนำมาใช้เมื่อจำเป็นหรือต้องการได้
-* <mark style="color:red;">สั่งตาย</mark> ด้วยดาบ <mark style="color:purple;">Xcaliber</mark> 1 คน <mark style="background-color:orange;">(หรือ -5HP กรณีโจมตีศัตรูใน Co-op หรือ Solo Mode)</mark>
-* ระหว่างที่ถือดาบ การโจมตีจะรุนแรงขึ้นจาก <mark style="color:red;">1ATK</mark> เป็น <mark style="color:red;">2ATK</mark>
+* <mark style="color:yellow;">Full Recovery +</mark> <mark style="color:green;">Goblin</mark> That perched instantly dies and turns into HP that can be used when needed or needed.
+* <mark style="color:red;">death order</mark> with a sword <mark style="color:purple;">Xcaliber</mark> 1 person <mark style="background-color:orange;">(or -5HP in case of attacking enemies Co-op or Solo Mode)</mark>
+* while holding a sword the attack will be stronger from <mark style="color:red;">1ATK</mark> to <mark style="color:red;">2ATK</mark>
 
-<mark style="background-color:yellow;">\*\*หากตาย ให้ทิ้งการ์ดดาบ</mark> <mark style="color:purple;background-color:yellow;">Xcaliber</mark><mark style="background-color:yellow;"><mark style="color:purple;">(Long Sword)กลับสู่กองทิ้ง และความสามารถจะกลับเข้าสู่โหมดปรกติ<mark style="color:purple;"></mark>
+<mark style="background-color:yellow;">\*\*if you die, discard the sword card.</mark> <mark style="color:purple;background-color:yellow;">Xcaliber</mark><mark style="background-color:yellow;"><mark style="color:purple;">(Long Sword)<mark style="color:purple;"></mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">Return to discard pile. and the ability will return to normal mode.</mark>

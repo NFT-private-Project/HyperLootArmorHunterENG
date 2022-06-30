@@ -1,38 +1,38 @@
 # ⚔ Battle Mode
 
-### <mark style="color:yellow;">ความต้องการ</mark>
+### <mark style="color:yellow;">Need</mark>
 
-* ผู้เล่น 2-6 คน
+* 2-6 Player
 
-### <mark style="color:yellow;">เวลาในการเล่น</mark>
+### <mark style="color:yellow;">Playing Time</mark>
 
-* 15-30 นาที
+* 15-30 minutes
 
-### <mark style="color:yellow;">เงื่อนไขในการชนะ</mark>
+### <mark style="color:yellow;">Win conditions</mark>
 
-* สะสมยุทธภัณฑ์ครบ 3-5 ชุด ก่อนเป็นผู้ชนะ&#x20;
-* หากเป็นเกมแรกแนะนำเล่นแบบ 3 ชุด เพื่อศึกษาระบบเกม และค่อย ๆ ขยับเป็น 4 หรือ 5 ชุดเมื่อเล่นซ้ำ หรือเมื่อผู้เล่นแต่ละคนเข้าใจกฏ กติกา <mark style="color:yellow;">**เข้าใจความสามารถพิเศษของชุดเกราะแต่ละชุด**</mark> ยิ่งรู้วิธีเล่นครบหมดทุกคนจะเป็นเกมที่สนุก ลุ้นระทึกในทุก ๆ ครั้งที่หยิบการ์ด :smile:
+* Collet 3-5 sets of ammunition before becoming the winner.
+* If it's the first game, it's recommended to play 3 sets to study the game and gradually move to 4 or 5 sets when playing repeatedly. or when each player understands the rules <mark style="color:yellow;">**Understand the special abilities of each set of armor.**</mark> The more you know how to play all of them, the more fun the game will be. Get a thrill every time you pick up a card :smile:
 
-### <mark style="color:yellow;">เตรียมเกม / SET UP (Basic Beginer Mode)</mark>
+### <mark style="color:yellow;">Preparing the game/ SET UP (Basic Beginner Mode)</mark>
 
-1. แจก Player Pack ให้ผู้เล่นทุกคน คนละ 1 Pack ประกอบด้วย\
-   \- แผ่นวางตัว หรือ Player Board คนละ 1 แผ่น\
-   \- ชุดเกราะว่างเปล่า 1 ใบ\
-   \- HP : Token 3 เหรียญ
-2. ทำการสับการ์ดแยกการ์ดออกเป็นสองกอง คือ\
-   \- [<mark style="color:green;">Assets Card</mark>](../armor/) <mark style="color:green;"></mark> หรือการ์ดชุดเกราะ\
-   \- [<mark style="color:green;">Event Card</mark>](../event-card.md) <mark style="color:green;"></mark> จากนั้นทำการวางไว้ที่กระดาน (ตามที่เขียนกำกับไว้บนกระดาน board ในรูปตัวอย่าง)
-3. แจกการ์ด [<mark style="color:green;">Assets Card</mark>](../armor/) ให้ผู้เล่น คนละ 6 ใบ
-4. เปิดการ์ด [<mark style="color:green;">Assets Card</mark>](../armor/) จากสองกองซ้าย/ขวาที่คว่ำอยู่ เปิดหงายและวางที่กลางกระดานจำนวนทั้งหมด 6 ใบ
+1. Distribute Player Pace to all players, 1 Pack each consists of\
+   \- 1 Player Board per person \
+   \- 1 empty armor\
+   \- HP : 3 Token
+2. Shuffle the card and split them into two piles:\
+   \- [<mark style="color:green;">Assets Card</mark>](../armor/) of Armor Card\
+   \- [<mark style="color:green;">Event Card</mark>](../event-card.md) then place it on the board (As written on the board in the example picture)
+3. hand out cards [<mark style="color:green;">Assets Card</mark>](../armor/) Give each player 6 cards.
+4. open card [<mark style="color:green;">Assets Card</mark>](../armor/) From the two left/right stacks that are upside down Open face up and place 6 total cards in the center of the board.
 
 ![](../.gitbook/assets/282106204\_815408646100838\_4003347213847016255\_n.jpg)
 
-### <mark style="color:yellow;">ขั้นตอนการเล่น (</mark>#DDEA <mark style="color:yellow;">: Draw</mark> -> <mark style="color:yellow;">Discard</mark> -> <mark style="color:yellow;">Event</mark> -> <mark style="color:yellow;">Action)</mark>
+### <mark style="color:yellow;">How to play (</mark>#DDEA <mark style="color:yellow;">: Draw</mark> -> <mark style="color:yellow;">Discard</mark> -> <mark style="color:yellow;">Event</mark> -> <mark style="color:yellow;">Action)</mark>
 
-1. **Draw :** ทำการจั่วการ์ด Asset Part จากกระดาน 1 ใบขึ้นมือโดยไม่ให้ใครเห็น สามารถจั่วได้จากทั้งกองที่ปิดอยู่หรือที่เปิดหงายไว้ <mark style="background-color:orange;">**(หากหยิบจากใบที่เปิดอยู่ให้เปิดการ์ดใหม่มาวางไว้แทนก่อนคนถัดไปจะ Draw )**</mark>
-2. **Discard :** ทำการทิ้งการ์ดบนมือ 1 ใบ ให้จำนวนการ์ดเหลือ 6 ใบเท่านั้น _(ยกเว้น Silk Robe ที่ถือได้ 7 ใบ)_
-3. **Event :** ให้ทำการจั่วการ์ดจากกอง [<mark style="color:green;">Event Card</mark>](../event-card.md) และเปิดให้ทุกคนเห็น\
-   \*\* หากสะสมชิ้นส่วนครบทั้ง 5 ชิ้นส่วนแล้ว ให้ประกาศในเฟสนี้ทันทีโดยไม่ต้องจั่ว [<mark style="color:green;">Event Card</mark>](../event-card.md) -> จากนั้นจั่ว [<mark style="color:green;">Assets Card</mark>](../armor/) ตามจำนวนที่ทิ้งไป ให้เท่ากับตอนเริ่มเกม -> ข้ามเฟส 4 ไปคนถัดไป
-4. **Action :** ให้ทำตาม [<mark style="color:green;">Event Card</mark>](../event-card.md) ที่เปิดได้ และให้มีผลตามนั้น
+1. **Draw :** Draw 1 Asset Part cart from the board to your hand without being seen by anyone. Con be drawn from either a closed pile or an open pile. <mark style="background-color:orange;">**(If picked from an open card, open a new card and place it instead before the next person draws)**</mark>
+2. **Discard :** Discard 1 card from your hand, leaving only 6 cards left (except Silk Robe which can hold 7).
+3. **Event :** Draw a card from the [<mark style="color:green;">Event Card</mark>](../event-card.md) <mark style="color:green;">Deck</mark> and open it up for all to see\
+   \*\* If all 5 fragments have been collected, immediately declare in this phase without drawing. [<mark style="color:green;">Event Card</mark>](../event-card.md) -> then draw [<mark style="color:green;">Assets Card</mark>](../armor/) according to the number of discarded equal to the beginning of the game -> skip phase 4 to the next person
+4. **Action :** to follow [<mark style="color:green;">Event Card</mark>](../event-card.md) that can be opened and to have effect accordingly.
 
-หรือศึกษาวิธีเล่นได้จากคลิปนี้ <mark style="color:yellow;">**>>**</mark> [https://www.youtube.com/watch?v=4fZ7wVVoSo8](https://www.youtube.com/watch?v=4fZ7wVVoSo8)
+or learn how to play more from this Video <mark style="color:yellow;">**>>**</mark> [https://www.youtube.com/watch?v=4fZ7wVVoSo8](https://www.youtube.com/watch?v=4fZ7wVVoSo8)

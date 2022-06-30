@@ -1,5 +1,5 @@
 ---
-description: นักค้าความตาย // นักฆ่าวาณิช
+description: Death Dealer // Merchant Killer
 ---
 
 # 💰 Silk Robe
@@ -8,28 +8,28 @@ description: นักค้าความตาย // นักฆ่าวา
 
 ### <mark style="color:yellow;">ข้อมูลชุดเกราะ</mark>
 
-<mark style="color:purple;">นักค้าความตาย</mark> หรือ <mark style="color:purple;">'นักฆ่าวาณิช Silk Robe'</mark> ผู้กล้าที่เกิดมาในตระกูลผู้ดี รักความตื่นเต้น และการผจญภัย มีความสุขกับการหาความหมาย ความท้าทายใหม่ ๆ ให้กับชีวิต เป็นผู้ก่อตั้ง และสนับสนุนองค์กรลับหลายองค์กร ที่ต้องใช้เงินทุนมหาศาลในการดำเนินงาน เป้าหมายของเขาจึงยังคงเป็นปริศนา?&#x20;
+<mark style="color:purple;">Death Dealer</mark> หรือ <mark style="color:purple;">'The Silk Robe Merchant Killer'</mark> A brave person who was born into a noble family. Loves excitement and adventure and enjoys finding meaning. New challenges for life as a founder and support many secret organizations that requires huge capital to operate So his goal remains a mystery?
 
-หรือ Silk Robe จะรู้ความลับอะไรบางอย่าง เกี่ยวกับสมบัติที่ซ่อนอยู่ในรังของ <mark style="color:green;">**Goblin**</mark> และ <mark style="color:red;">**Red Dragon**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> ?
+Or Silk Robe will know some secret. About the treasure hidden in the nest of <mark style="color:green;">**Goblin**</mark> and <mark style="color:red;">**Red Dragon**</mark> ?
 
-แม้ HP ของ Silk Robe จะมี _น้อยที่สุด_ ในเหล่าผู้กล้า (3HP) แต่ Skill หรือความสามารถพิเศษของ Silk Robe ก็ถูกเล่าขานว่าเป็นความสามารถที่ _พิเศษ_ หาจากอัศวินคนอื่นไม่ได้! ความสามารถนี้จึงอาจจะเหมาะสำหรับ Co-Op หรือ Solo Mode หรือหากฝึกใช้จนชำนาญ ก็อาจกลายเป็นชุดเกราะที่ _อันตรายที่สุด_ สำหรับ Battle Mode ก็เป็นได้!
+Although Silk Robe's HP was the least among the heroes (3HP), Silk Robe's skill or special ability was said to be a special ability that could n't be obtained from other knights! This ability may be suitable for Co-Op or Solo Mode, or if you have mastered it. It may become a set of armor that The most dangerous for Battle Mode can be!
 
 ![](<../.gitbook/assets/B (7).png>) ![](<../.gitbook/assets/2 ใบ grave-wand.png>)
 
 ### <mark style="color:yellow;">Passive Skill</mark>
 
-* สามารถ <mark style="color:yellow;">เก็บการ์ดบนมือ</mark> ได้ทั้งหมด 7 ใบ (ผู้เล่นคนอื่นเก็บการ์ดในมือได้สูงสุด 6 ใบ)
+* can <mark style="color:yellow;">keep cards in hand</mark> Get a total of 7 cards (Other player can keep up to 6 cards in their hand)
 
 ### <mark style="color:yellow;">Action Skill</mark>
 
-* สามารถ<mark style="color:yellow;">จั่ว</mark> [<mark style="color:orange;">Event Card</mark>](../event-card.md) ได้ 2 ใบ -> เลือก 1 ใบ แล้วทิ้งใบที่ไม่ต้องการไว้ด้านล่างสุดของกอง [<mark style="color:orange;">Event Card</mark>](../event-card.md)
+* can <mark style="color:yellow;">gable</mark> [<mark style="color:orange;">Event Card</mark>](../event-card.md) Get 2 cards -> Choose 1 card and discard the unwanted card at the bottom of the [<mark style="color:orange;">Event Card</mark>](../event-card.md) <mark style="color:orange;"></mark> pile&#x20;
 
 ### <mark style="color:yellow;">Special Skill</mark>
 
-เมื่อเปิดได้การ์ด <mark style="color:purple;">Grave Wand</mark> ความสามารถนี้จะ Active พร้อมกันทั้งหมด
+when opening the card <mark style="color:purple;">Grave Wand</mark> This ability is all active at the same time.
 
 * <mark style="color:yellow;">Full Recovery</mark>
-* เลือกการ์ดในกองทิ้ง [<mark style="color:orange;">Asset Card</mark>](./) มาสลับกับการ์ดในมือของตัวเองได้ 2 ใบ
-* <mark style="background-color:red;">HP+1Slot</mark> ต่อ <mark style="color:purple;">Grave Wand</mark> 1 ชิ้น (HP Max สูงสุดได้ 5 Slot)
+* Select a card in the discard pile. [<mark style="color:orange;">Asset Card</mark>](./) You can swap with 2 cards in your hand.
+* <mark style="background-color:red;">HP+1Slot</mark> per <mark style="color:purple;">Grave Wand</mark> 1 piece (HP Max up to 5 Slot)
 
-<mark style="background-color:orange;">**หากตายให้ทิ้งการ์ด**</mark> <mark style="background-color:orange;"></mark><mark style="background-color:orange;"></mark> <mark style="color:purple;background-color:orange;">**Grave Wand**</mark>** **<mark style="background-color:orange;">**กลับสู่กองทิ้ง และความสามารถจะกลับเข้าสู่ปกติ ยกเว้น HP Slot จะยังคงอยู่จนกว่าจะจบเกม**</mark>
+<mark style="background-color:orange;">**If dead, discard the card.**</mark> <mark style="color:purple;background-color:orange;">**Grave Wand**</mark>\*\* \*\*<mark style="background-color:orange;">**back to the discard pile and the ability will return to normal, except the HP slot will remain until the end of the game.**</mark>
