@@ -6,7 +6,7 @@
 
 ### <mark style="color:yellow;">Playing Time</mark>
 
-* 15-30 minutes
+* 15-60 minutes
 
 ### <mark style="color:yellow;">Win conditions</mark>
 
