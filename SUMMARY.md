@@ -17,5 +17,5 @@
   * [🗡 Solo Mode](rule/solo-mode.md)
   * [👩👩👦👦 Co-op](rule/co-op.md)
 * [🤝 Support](support.md)
-* [HyperLootProject](https://hyperlootproject.com/)
+* [🔗 HyperLootProject](https://hyperlootproject.com/)
 * [🇹🇭 THAI Version](https://hyperloot-th.armorhunter.xyz/)
