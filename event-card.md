@@ -50,3 +50,7 @@ when found <mark style="color:yellow;">Weapon Card</mark> can choose that
 * when found <mark style="color:yellow;">Energy Card</mark> will be able <mark style="color:blue;background-color:green;">Heal HP+1</mark> (Easy mode or beginner mode can be accumulated and used when needed even if the HP tube is full // but hard mode or Insane Mode must be used or discarded immediately. can't keep)
 
 ![](<.gitbook/assets/สำเนาของ pendant.png>)
+
+### <mark style="color:yellow;">Dragon's Event Card</mark>
+
+* It is a card set for dragon used in Solo Mode and Co-op Mode. It consists of cards that are similar to the player's Event Card.
