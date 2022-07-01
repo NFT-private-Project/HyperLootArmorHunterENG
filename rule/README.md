@@ -10,10 +10,10 @@ description: กฏในการเล่น
 [battle-mode.md](battle-mode.md)
 {% endcontent-ref %}
 
-{% content-ref url="solo-mode.md" %}
-[solo-mode.md](solo-mode.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="co-op.md" %}
-[co-op.md](co-op.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

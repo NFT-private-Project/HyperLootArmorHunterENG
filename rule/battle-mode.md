@@ -2,7 +2,7 @@
 
 ### <mark style="color:yellow;">Need</mark>
 
-* 2-6 Player
+* 2-4 Player
 
 ### <mark style="color:yellow;">Playing Time</mark>
 
@@ -10,7 +10,7 @@
 
 ### <mark style="color:yellow;">Win conditions</mark>
 
-* Collet 3-5 sets of ammunition before becoming the winner.
+* Collect 3-5 sets of ammunition before becoming the winner.
 * If it's the first game, it's recommended to play 3 sets to study the game and gradually move to 4 or 5 sets when playing repeatedly. or when each player understands the rules <mark style="color:yellow;">**Understand the special abilities of each set of armor.**</mark> The more you know how to play all of them, the more fun the game will be. Get a thrill every time you pick up a card :smile:
 
 ### <mark style="color:yellow;">Preparing the game/ SET UP (Basic Beginner Mode)</mark>
@@ -35,4 +35,4 @@
    \*\* If all 5 fragments have been collected, immediately declare in this phase without drawing. [<mark style="color:green;">Event Card</mark>](../event-card.md) -> then draw [<mark style="color:green;">Assets Card</mark>](../armor/) according to the number of discarded equal to the beginning of the game -> skip phase 4 to the next person
 4. **Action :** to follow [<mark style="color:green;">Event Card</mark>](../event-card.md) that can be opened and to have effect accordingly.
 
-or learn how to play more from this Video <mark style="color:yellow;">**>>**</mark> [https://www.youtube.com/watch?v=4fZ7wVVoSo8](https://www.youtube.com/watch?v=4fZ7wVVoSo8)
+or learn how to play more from this Video(Subtitle) <mark style="color:yellow;">**>>**</mark> [https://www.youtube.com/watch?v=4fZ7wVVoSo8](https://www.youtube.com/watch?v=4fZ7wVVoSo8)
