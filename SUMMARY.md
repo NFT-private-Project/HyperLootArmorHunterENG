@@ -19,3 +19,4 @@
 * [🤝 Support](support.md)
 * [🔗 HyperLootProject](https://hyperlootproject.com/)
 * [🇹🇭 THAI Version](https://hyperloot-th.armorhunter.xyz/)
+* [💸 Pre Order](https://forms.zohopublic.com/ninaapranee/form/ArmorHunterBoardGame/formperma/ThLV\_Vk0GZyy986rhdO5F\_-\_z4H1KDf6v3i9RMIATsE)
